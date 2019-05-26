@@ -5,7 +5,6 @@ config-file-provider:2.15.1
 pipeline-multibranch-defaults:1.1
 workflow-step-api:1.10
 resolution:=optional
-credentials:1.16.1
 job-dsl:1.36
 resolution:=optional
 plain-credentials:1.4
