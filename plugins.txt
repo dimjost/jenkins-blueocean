@@ -1,5 +1,5 @@
+credentials:2.1.5
 blueocean:1.3.0
 pipeline-multibranch-defaults:1.1
 ansible:1.0
 authentication-tokens:1.3
-credentials:2.1.5
